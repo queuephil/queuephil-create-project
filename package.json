@@ -1,0 +1,7 @@
+{
+  "name": "queuephil-create-project",
+  "version": "1.0.0",
+  "bin": {
+    "queuephil-create-project": "./index.js"
+  }
+}
